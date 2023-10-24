@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fatemehzomorrodi
 - 👀 I’m interested in python & R
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+
   
 
 <!---
